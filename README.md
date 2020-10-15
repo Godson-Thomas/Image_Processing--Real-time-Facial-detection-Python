@@ -5,7 +5,7 @@ Computer Vision, often abbreviated as CV, is defined as a field of study that se
 Here we are going to detect facial features from a real time video by using **HAAR CASCADE** classifier.
 # HAAR CASCADE
 Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of ​​ features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.<br>
-OpenCV already contains many pre-trained classifiers for face, eyes, smile etc..So we will be using one of the pre-trained classifier here.
+OpenCV already contains many pre-trained classifiers for face, eyes, smile etc...So we will be using one of the pre-trained classifier here.
 # Library
 OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. In short it is a library used for Image Processing. It is mainly used to do all the operation related to Images.We will be using this library.
 ### Note : ***Video is basically a sequence of moving images."Persistance of vision" (speciality of our eyes)  plays a major role in receiving moving images.*** 
